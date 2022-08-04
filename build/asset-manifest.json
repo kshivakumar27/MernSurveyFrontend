@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/MernSurveyFrontend/static/css/main.a617e044.chunk.css",
+    "main.js": "/MernSurveyFrontend/static/js/main.b28ad76c.chunk.js",
+    "main.js.map": "/MernSurveyFrontend/static/js/main.b28ad76c.chunk.js.map",
+    "runtime-main.js": "/MernSurveyFrontend/static/js/runtime-main.10ac5d81.js",
+    "runtime-main.js.map": "/MernSurveyFrontend/static/js/runtime-main.10ac5d81.js.map",
+    "static/css/2.8bab41f0.chunk.css": "/MernSurveyFrontend/static/css/2.8bab41f0.chunk.css",
+    "static/js/2.e3a0bde1.chunk.js": "/MernSurveyFrontend/static/js/2.e3a0bde1.chunk.js",
+    "static/js/2.e3a0bde1.chunk.js.map": "/MernSurveyFrontend/static/js/2.e3a0bde1.chunk.js.map",
+    "static/js/3.0271fe04.chunk.js": "/MernSurveyFrontend/static/js/3.0271fe04.chunk.js",
+    "static/js/3.0271fe04.chunk.js.map": "/MernSurveyFrontend/static/js/3.0271fe04.chunk.js.map",
+    "index.html": "/MernSurveyFrontend/index.html",
+    "static/css/2.8bab41f0.chunk.css.map": "/MernSurveyFrontend/static/css/2.8bab41f0.chunk.css.map",
+    "static/css/main.a617e044.chunk.css.map": "/MernSurveyFrontend/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.e3a0bde1.chunk.js.LICENSE.txt": "/MernSurveyFrontend/static/js/2.e3a0bde1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10ac5d81.js",
+    "static/css/2.8bab41f0.chunk.css",
+    "static/js/2.e3a0bde1.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.b28ad76c.chunk.js"
+  ]
+}
